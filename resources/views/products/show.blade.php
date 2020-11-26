@@ -29,7 +29,7 @@
        <tr>
 	<div class="d-flex align-items-center">
     <div class="m-r-10">
-		<td> {{ $transaction->restocked }} </td
+		<td> <p> {{ $transaction->restocked }} <p>
         </td>
 	</div>
 </div>

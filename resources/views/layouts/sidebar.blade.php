@@ -21,8 +21,8 @@
                                     class="hide-menu">Products</span></a></li>
                     
                         <li class="sidebar-item"> <a class="sidebar-link waves-effect waves-dark sidebar-link"
-                                href="/transactions" aria-expanded="false"><i class="mdi mdi-file"></i><span
-                                    class="hide-menu">Transactions</span></a></li>
+                                href="/" aria-expanded="false"><i class="mdi mdi-file"></i><span
+                                    class="hide-menu">All</span></a></li>
                       
                     </ul>
 

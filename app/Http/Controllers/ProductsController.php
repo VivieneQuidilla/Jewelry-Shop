@@ -8,7 +8,7 @@ use Illuminate\Http\Request;
 
 class ProductsController extends Controller
 {
-    protected $table = 'products';
+    //protected $table = 'products';
      //Display
     public function index() {
         $products = Product::all();
